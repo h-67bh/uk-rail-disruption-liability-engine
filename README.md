@@ -1,7 +1,3 @@
-# uk-rail-disruption-liability-engine
-An XGBoost ML pipeline and Streamlit app predicting passenger refund behavior in UK rail logistics. Transforms raw disruption data into a live liability engine, mapping the 30-min delay threshold to protect ticket revenue. Achieved 95% recall for claims, shifting reactive crisis management into proactive financial risk mitigation.
-
-
 # 🚆 Delay-Triggered Liability Engine: Machine Learning for Revenue Protection in UK Rail Logistics
 
 An end-to-end XGBoost machine learning pipeline and interactive Streamlit application to predict passenger refund behavior and quantify real-time financial revenue leakage during transit delays.

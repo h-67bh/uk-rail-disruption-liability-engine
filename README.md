@@ -59,12 +59,3 @@ The Streamlit interface acts as a triage tool for transport dispatchers.
 * **Risk Alert System:** Visual triggers (Red/Yellow/Green) to categorize the immediate operational threat level.
 
 ---
-
-## 4. Installation & Execution
-
-To run this application locally, you must have Python installed.
-
-**1. Clone the repository and navigate to the directory:**
-```bash
-git clone [your-repository-url]
-cd [your-repository-name]
